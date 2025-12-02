@@ -1,1 +1,6 @@
-
+order_id,date,item,category,quantity,unit_price,total_price,location
+1001,2025-01-01,Latte,Coffee,2,180,360,Bangalore
+1002,2025-01-01,Espresso,Coffee,1,120,120,Delhi
+1003,2025-01-01,Cappuccino,Coffee,3,170,510,Mumbai
+1004,2025-01-02,Mocha,Coffee,1,200,200,Delhi
+1005,2025-01-02,Blueberry Muffin,Bakery,2,90,180,Bangalore
